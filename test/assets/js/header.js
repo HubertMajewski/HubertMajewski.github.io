@@ -4,13 +4,13 @@ document.write('\
 	<h1 id="logo"><a href="index.html">Hubert Majewski <span>a programmer\'s journey</span></a></h1>\
 	<nav id="nav">\
 		<ul>\
-			<li class="current"><a href="index.html">Welcome</a></li>\
+			<li class="current"><a href="index.html">Home</a></li>\
 			<li class="submenu">\
 				<a href="#">Menu</a>\
 				<ul>\
 					<!--<li><a href="left-sidebar.html">Left Sidebar</a></li>\
-					<li><a href="right-sidebar.html">Right Sidebar</a></li>-->\
-					<li><a href="contact.html">Contact</a></li>\
+					<li><a href="Projects.html">Projects</a></li>-->\
+					<li><a href="Contact.html">Contact</a></li>\
 					<li><a href="YouthLeadershipTeam.html">Youth Leadership Team</a></li>\
 					<!--<li class="submenu">\
 						<a href="#">Submenu</a>\
