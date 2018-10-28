@@ -1,4 +1,5 @@
 document.write('\
+<link rel="SHORTCUT ICON" href="https://www.qc.cuny.edu/PublishingImages/favicon.ico">\
 <!-- Header -->\
 <header id="header" class="alt">\
 	<h1 id="logo"><a href="index.html">Hubert Majewski <span>a programmer\'s journey</span></a></h1>\
