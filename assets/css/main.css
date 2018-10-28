@@ -1918,6 +1918,15 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
+			.icon.circle.fa-linkedin-square {
+				background: #7ca0ff;
+				color: #fff;
+			}
+			
+				.icon.circle.fa-linkedin-square:hover {
+					background: #7198ff;
+				}
+			
 			.icon.circle.fa-twitter {
 				background: #70aecd;
 				color: #fff;
