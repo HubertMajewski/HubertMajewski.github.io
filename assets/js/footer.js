@@ -12,7 +12,7 @@ document.write('\
 				</ul>\
 \
 				<ul class="copyright">\
-					<!--<li>&copy; Untitled</li>--><li style="font-size: 10px;">Original Design: <a href="http://html5up.net">HTML5 UP</a></li>\
+					<!--<li>&copy; Untitled</li>--><li style="font-size: 10px;">Original Design: <a href="https://html5up.net/twenty">HTML5 UP</a></li>\
 				</ul>\
 \
 				<ul class="copyright" style="font-size: 24px;">\
