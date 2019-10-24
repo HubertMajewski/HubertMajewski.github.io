@@ -11,7 +11,6 @@ document.write('\
 				<ul>\
 					<!--<li><a href="left-sidebar.html">Left Sidebar</a></li>-->\
 					<li><a href="https://github.com/HubertMajewski">Projects</a></li>\
-					<li><a href="Education.html">Education</a></li>\
 					<li><a href="Contact.html">Contact</a></li>\
 					<li><a href="YouthLeadershipTeam.html">Youth Leadership Team</a></li>\
 					<!--<li class="submenu">\
