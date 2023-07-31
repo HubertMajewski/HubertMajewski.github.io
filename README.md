@@ -1,1 +1,0 @@
-# HubertMajewski.github.io
